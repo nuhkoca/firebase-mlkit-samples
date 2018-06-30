@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/72c184b210712f9b1b139c90781d4213/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/2db07ebb0a361f8fb2e219e7ad25a348/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9322ede9805aed64e73483a18a0a170e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/aad95f0ac886ed2150e2a4e709aa650b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2e63d92962e777acceed60172bcdff16/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-16.0.0.aar/eb3a3c053103394c3c7f876f81b3c0e7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-image-label-model-15.0.0.aar/a644468c74932ef1a24075b2be6e0200/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/08c75c85427e894231b49bf55f85d817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8f2c8e2aff9639a0ca37cc67c1329261/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/9b1e5006f656bdba53fb307b7ff8819d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/b8bb345b6ca5a352434f00d4fabbc956/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/97721a734ce25f515c3007cd26810a95/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/7d589ef1b7cabdd4952f6a76e44e8412/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/23ec4ff18309f6a721f9f3b7f220a5e2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7ae2a5de0175c9c6a38c7bc1d431cd4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/c8d5736c5510839b5b0e9e63aa915a3b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c3ca030ff87d7b8ff37c4169482ae568/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a0199497597069aac8b0e51469fabf06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/98b559a6398c38460b28a532fd686ffb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e4042e2531e79e937dc5ed1f081ded8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0fa4ce83b41295ee9d3b873d214fb036/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/833c9e95a56a4a257d73dd53d8c1ec43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/f26bd9618c9bbfe9417a053622305f71/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4c0fc2cbe292aa9488bf487d0683d954/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ceb9b20dfdddb871ac7a8f8a12de20a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ef7f7be875da6585d29bc4ac55831c7b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:4:5-47
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/aad95f0ac886ed2150e2a4e709aa650b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/aad95f0ac886ed2150e2a4e709aa650b/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2e63d92962e777acceed60172bcdff16/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2e63d92962e777acceed60172bcdff16/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-image-label-model-15.0.0.aar/a644468c74932ef1a24075b2be6e0200/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-image-label-model-15.0.0.aar/a644468c74932ef1a24075b2be6e0200/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/9b1e5006f656bdba53fb307b7ff8819d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/9b1e5006f656bdba53fb307b7ff8819d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/b8bb345b6ca5a352434f00d4fabbc956/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/b8bb345b6ca5a352434f00d4fabbc956/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/97721a734ce25f515c3007cd26810a95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/97721a734ce25f515c3007cd26810a95/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/23ec4ff18309f6a721f9f3b7f220a5e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/23ec4ff18309f6a721f9f3b7f220a5e2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/c8d5736c5510839b5b0e9e63aa915a3b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/c8d5736c5510839b5b0e9e63aa915a3b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c3ca030ff87d7b8ff37c4169482ae568/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c3ca030ff87d7b8ff37c4169482ae568/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/f26bd9618c9bbfe9417a053622305f71/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/f26bd9618c9bbfe9417a053622305f71/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:15:9-42
+	tools:ignore
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.nuhkoca.firebasemlkitsamples.MainActivity
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:25:9-27:35
+	android:value
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:27:13-32
+	android:name
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml:26:13-70
+uses-sdk
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/72c184b210712f9b1b139c90781d4213/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/72c184b210712f9b1b139c90781d4213/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/2db07ebb0a361f8fb2e219e7ad25a348/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/2db07ebb0a361f8fb2e219e7ad25a348/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9322ede9805aed64e73483a18a0a170e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9322ede9805aed64e73483a18a0a170e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/aad95f0ac886ed2150e2a4e709aa650b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/aad95f0ac886ed2150e2a4e709aa650b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2e63d92962e777acceed60172bcdff16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2e63d92962e777acceed60172bcdff16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-16.0.0.aar/eb3a3c053103394c3c7f876f81b3c0e7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-16.0.0.aar/eb3a3c053103394c3c7f876f81b3c0e7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-image-label-model-15.0.0.aar/a644468c74932ef1a24075b2be6e0200/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-vision-image-label-model-15.0.0.aar/a644468c74932ef1a24075b2be6e0200/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/08c75c85427e894231b49bf55f85d817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/08c75c85427e894231b49bf55f85d817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8f2c8e2aff9639a0ca37cc67c1329261/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8f2c8e2aff9639a0ca37cc67c1329261/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/9b1e5006f656bdba53fb307b7ff8819d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/9b1e5006f656bdba53fb307b7ff8819d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/b8bb345b6ca5a352434f00d4fabbc956/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-image-label-15.0.0.aar/b8bb345b6ca5a352434f00d4fabbc956/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/97721a734ce25f515c3007cd26810a95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/97721a734ce25f515c3007cd26810a95/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/7d589ef1b7cabdd4952f6a76e44e8412/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-ml-common-16.0.0.aar/7d589ef1b7cabdd4952f6a76e44e8412/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/23ec4ff18309f6a721f9f3b7f220a5e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/23ec4ff18309f6a721f9f3b7f220a5e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7ae2a5de0175c9c6a38c7bc1d431cd4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/7ae2a5de0175c9c6a38c7bc1d431cd4b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/c8d5736c5510839b5b0e9e63aa915a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/c8d5736c5510839b5b0e9e63aa915a3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c3ca030ff87d7b8ff37c4169482ae568/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c3ca030ff87d7b8ff37c4169482ae568/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a0199497597069aac8b0e51469fabf06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a0199497597069aac8b0e51469fabf06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/98b559a6398c38460b28a532fd686ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/98b559a6398c38460b28a532fd686ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e4042e2531e79e937dc5ed1f081ded8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e4042e2531e79e937dc5ed1f081ded8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0fa4ce83b41295ee9d3b873d214fb036/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0fa4ce83b41295ee9d3b873d214fb036/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/833c9e95a56a4a257d73dd53d8c1ec43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/833c9e95a56a4a257d73dd53d8c1ec43/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/f26bd9618c9bbfe9417a053622305f71/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/f26bd9618c9bbfe9417a053622305f71/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4c0fc2cbe292aa9488bf487d0683d954/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4c0fc2cbe292aa9488bf487d0683d954/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ceb9b20dfdddb871ac7a8f8a12de20a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ceb9b20dfdddb871ac7a8f8a12de20a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ef7f7be875da6585d29bc4ac55831c7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ef7f7be875da6585d29bc4ac55831c7b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nuhkoca/Desktop/AndroidWorks/FirebaseMLKitSamples/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/b80302d9dbd747edfbb09a3fdbd6ff66/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/b23e57da41f9e4e3c95a45a407e2a1eb/AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/946a29b2e544278859f9f145dfc366c7/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/51920e074871d56bb22ff681b4cbbfc9/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/nuhkoca/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c0cf49d23e720aaa39c8f44f6706d63b/AndroidManifest.xml:27:13-51
