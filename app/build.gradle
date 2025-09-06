@@ -34,7 +34,7 @@ dependencies {
 
     implementation 'org.jetbrains.anko:anko-commons:0.10.8'
 
-    implementation 'com.github.bumptech.glide:glide:5.0.0'
+    implementation 'com.github.bumptech.glide:glide:5.0.4'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.16.0'
 
     implementation 'com.google.firebase:firebase-ml-vision:24.1.0'
